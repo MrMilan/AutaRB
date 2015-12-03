@@ -1,0 +1,4 @@
+"";"Cluster";"Freq";"Type";"Min.Price";"Price";"Max.Price";"MPG.city";"MPG.highway";"AirBags";"DriveTrain";"Cylinders";"EngineSize";"Horsepower";"RPM";"Rev.per.mile";"Man.trans.avail";"Fuel.tank.capacity";"Passengers";"Length";"Wheelbase";"Width";"Turn.circle";"Rear.seat.room";"Luggage.room";"Weight";"Origin"
+"1";1;22;4;8,3;10;11,15;29;33,5;3;2;2;1,55;90;5600;2727,5;2;13;5;170,5;97;66;35;26,5;11;2335;1
+"2";2;36;3;22,1;24,05;25,6;19;26;2;2;4;3,35;170;5150;1982,5;1;18;5;194;108,5;71,5;40,5;28,5;15;3495;2
+"3";3;24;2;13,6;15,7;17,85;23;30;2;2;2;2,2;119;5300;2490;2;15,95;5;182,5;103;68;39;28;14;2940;2
